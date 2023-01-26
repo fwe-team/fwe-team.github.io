@@ -1,31 +1,31 @@
-# fweteam <fweteam.github.io>
+# fwe-team <fwe-team.github.io>
 VERSION="2.2.0"
 NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GD7YDKEMKWHUIUJAQE5ZEEJ5US5KQQTT6X4QTHMFVX76WIRSUQOREWON"
+"GCMHDOAGG65FSS657OLWFZWFDZUIDOKWCR2T73ZODPZYPPM3NK3YHOLY"
 ]
 
 [DOCUMENTATION]
-ORG_NAME="fweteam"
-ORG_URL="https://fweteam.github.io"
-ORG_LOGO = "https://fweteam.github.io/img/fwe.png"
-ORG_OFFICIAL_EMAIL="fwe.team@yahoo.com"
-ORG_SUPPORT_EMAIL="fwe.team@yahoo.com"
-ORG_TWITTER="0xfweteam"
-ORG_DESCRIPTION="fweteam: Create Value to NFT Space"
+ORG_NAME="fwe-team"
+ORG_URL="https://fwe-team.github.io"
+ORG_LOGO = "https://fwe-team.github.io/img/fwe.png"
+ORG_OFFICIAL_EMAIL="fweteam@aol.com"
+ORG_SUPPORT_EMAIL="fweteam@aol.com"
+ORG_TWITTER="0xfwe-team"
+ORG_DESCRIPTION="fwe-team: Create Value to NFT Space"
 
 [[PRINCIPALS]]
-email="fwe.team@yahoo.com"
+email="fweteam@aol.com"
 
 [[CURRENCIES]]
 code = "FWE"
 name = "FWE"
-issuer = "GD7YDKEMKWHUIUJAQE5ZEEJ5US5KQQTT6X4QTHMFVX76WIRSUQOREWON"
+issuer = "GCMHDOAGG65FSS657OLWFZWFDZUIDOKWCR2T73ZODPZYPPM3NK3YHOLY"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is token of FWE."
-image="https://fweteam.github.io/img/fwe.png"
+image="https://fwe-team.github.io/img/fwe.png"
 conditions="There will only ever be 1 billion FWE tokens in existence."
 status="live"
 anchor_asset_type="other"
